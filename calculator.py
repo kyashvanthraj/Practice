@@ -15,4 +15,4 @@ elif symbol == '/':
     div = num1 / num2
     print(div)
 else:
-    print("Invalid")   
+    print("Invalid")
